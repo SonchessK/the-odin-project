@@ -1,0 +1,19 @@
+
+html, body {
+     height: 100%;
+     margin: 0;
+     padding: 0;
+}
+    
+.head_container {
+     background-color: #1F2937;
+     padding: 200px;
+     width: 100%;
+     
+     border-color: #1F2937;
+}
+
+.head_container#logo_cont {
+    padding: 20px;
+}
+
