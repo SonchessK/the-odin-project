@@ -1,0 +1,97 @@
+.loginButton {
+  color: #00391e;
+  text-align: center;
+  letter-spacing: 0.5px;
+  background-color: #c7db00;
+  border: 1px solid #00391e;
+  border-radius: 25px;
+  width: 157px;
+  height: 48px;
+  padding: 14px 39px 14px 38px;
+  font-family: Ebrima, -apple-system, Roboto, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.title_header {
+    display: flex;
+width: 92.182px;
+height: 52px;
+flex-direction: column;
+ z-index: 1; 
+flex-shrink: 0;
+
+left: 50%;
+transform: translateX(-50%);
+
+color: #00391E;
+text-align: center;
+font-family: Prompt;
+font-size: 18px;
+
+font-weight: 600;
+line-height: 60px; /* 333.333% */
+letter-spacing: 0.5px;
+position:absolute;
+bottom: 0;
+
+}
+.menu_burger {
+width: 48px;
+height: 48px;
+position: absolute;
+bottom: 0;
+}
+
+.Tippabgabe_title {
+  width: 393px;
+  height: 52px;
+  color: #00391E;
+
+font-family: Prompt;
+font-size: 24px;
+font-weight: 600;
+line-height: 60px; /* 333.333% */
+letter-spacing: 0.5px;
+position:relative;
+}
+.account_icon {
+width: 48px;
+height: 48px;
+position: absolute;
+bottom: 0;
+right: 0;
+}
+
+.header {
+    background-color: #c7db00;
+    height: 89px;
+    width: 393px;
+    display: flex;
+    position: relative;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.kacheln {
+  width: 393px;
+  height: 51px;
+  position: relative;
+}
+.loginButton:active {
+     display: flex;
+width: 157px;
+height: 48px;
+padding: 14px 39px 14px 38px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+  text-align: center;
+border-radius: 25px;
+background: #00391E;
+color:#c7db00;
+}
+
